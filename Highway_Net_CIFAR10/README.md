@@ -9,7 +9,7 @@ An easy explanation of the technique can be also read on my website here https:/
 
 You have to install
 
-Keras
-Tensorflow
-numpy
-time
+Keras,
+Tensorflow,
+numpy,
+time.
